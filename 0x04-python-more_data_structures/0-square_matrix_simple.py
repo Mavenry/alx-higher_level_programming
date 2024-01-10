@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 def square_matrix_simple(matrix=[]):
     if matrix is None:
-        return
+        return []
     else:
         new_matrix = []
         for row in matrix:
@@ -9,4 +9,4 @@ def square_matrix_simple(matrix=[]):
             for element in row:
                 square_row.append(element **2)
             new_matrix.append(square_row)
-        return(new_matrix)
+        return (new_matrix)
