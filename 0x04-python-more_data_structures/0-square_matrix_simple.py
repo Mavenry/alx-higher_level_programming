@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 def square_matrix_simple(matrix=[]):
+    if matrix is None:
+        return
     new_matrix = []
     for row in matrix:
         square_row = []
