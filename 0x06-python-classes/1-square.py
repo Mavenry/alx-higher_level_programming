@@ -3,7 +3,7 @@
 
 
 class Square:
-    """Setting up a class"""
+    """Setting up a square class"""
 
 
     def __init__ (self, size):
