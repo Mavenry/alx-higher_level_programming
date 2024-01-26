@@ -9,8 +9,8 @@ class Square:
         """Initializing the Square class
         Args: size - is the size of the square aad it is initiated to 0
         Raises:
-        TypeError: must be int
-        ValueError: must be greater or equal to 0
+            TypeError: must be int
+            ValueError: must be greater or equal to 0
         """
 
         if not isinstance(size, int):
