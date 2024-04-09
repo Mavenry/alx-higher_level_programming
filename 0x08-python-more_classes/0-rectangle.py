@@ -3,5 +3,6 @@
 
 
     class Rectangle:
-        """ A class rectangle that does nothing"""
+        """ A class rectangle that does nothing """
+       
         pass
