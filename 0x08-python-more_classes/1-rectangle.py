@@ -5,7 +5,7 @@
 class Rectangle:
      """ this represents a class """
 
-    def __init__ (self, width=0,height=0):
+    def __init__(self, width=0,height=0):
 
         """ Initializing the class rectangle
             Args:
