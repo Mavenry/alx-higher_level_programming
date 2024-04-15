@@ -3,5 +3,5 @@
 
 
 def is_same_class(obj, a_class):
-    """Return true if the oject is an instance and false if not"""
+    """Return true if the oject is an instance otherwise return False"""
     return (type(obj) == a_class)
