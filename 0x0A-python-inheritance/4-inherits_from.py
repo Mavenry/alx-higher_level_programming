@@ -3,5 +3,5 @@
 
 
 def is_kind_of_class(obj, a_class):
-    """return True if obj is an instance of super class otherwise False"""
+    """Return True if obj is an instance of super class otherwise False"""
     return isinstance(obj, a_class)
