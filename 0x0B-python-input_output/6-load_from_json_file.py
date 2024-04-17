@@ -1,4 +1,4 @@
-#!/urs/bin/python3
+#!/usr/bin/python3
 """Module that creates a file from JSON file"""
 import json
 
