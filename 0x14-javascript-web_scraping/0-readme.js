@@ -9,4 +9,4 @@ fs.readFile(filename, utf-8, (err, data) => {
 	}else{
 		comsole.log(data);	
 	}
-})
+});
